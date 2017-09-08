@@ -1,0 +1,62 @@
+{
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [
+        66,
+        116,
+        201
+      ],
+      "toolbar": [
+        241,
+        239,
+        247
+      ],
+      "tab_text": [
+        241,
+        239,
+        247
+      ],
+      "tab_background_text": [
+        174,
+        173,
+        179
+      ],
+      "bookmark_text": [
+        241,
+        239,
+        247
+      ],
+      "ntp_background": [
+        33,
+        33,
+        54
+      ],
+      "ntp_text": [
+        241,
+        239,
+        247
+      ],
+      "button_background": [
+        241,
+        239,
+        247,
+        1
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.71,
+        0.31,
+        0.95
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "name": "Gloom",
+  "version": "1",
+  "description": ""
+}
